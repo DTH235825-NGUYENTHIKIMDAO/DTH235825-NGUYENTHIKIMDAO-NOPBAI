@@ -1,0 +1,14 @@
+[
+    {
+        "ma": "SV01",
+        "ten": "Nguyen Van A",
+        "namsinh": 2002,
+        "malop": "CT01"
+    },
+    {
+        "ma": "SV02",
+        "ten": "Tran Thi B",
+        "namsinh": 2003,
+        "malop": "CT02"
+    }
+]
